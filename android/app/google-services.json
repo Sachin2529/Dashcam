@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793134113290",
+    "project_id": "sist-bus-da6e0",
+    "storage_bucket": "sist-bus-da6e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793134113290:android:728df00384bd5f7b5175f3",
+        "android_client_info": {
+          "package_name": "com.example.dashcam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7RQAbrnsOXsqYT3raBxoCk5Lyr9IW4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Theme applied to the Android Window while the process is starting
+         (i.e., your splash screen). -->
+    <style name="LaunchTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Shown before the Flutter engine draws its first frame. -->
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+
+    <!-- Theme applied once Flutter has started.
+         Used in conjunction with the meta-data in AndroidManifest.xml to switch
+         from LaunchTheme to this NormalTheme after the app is loaded. -->
+    <style name="NormalTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+
+</resources>
